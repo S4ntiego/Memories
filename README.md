@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/62663595/236620494-345b5f06-754f-48c6-94ce-bbb58534b2bf.jpg"/>
+<img src="https://user-images.githubusercontent.com/62663595/236620575-47bb6b1a-9cf1-4c1f-b457-c6519ee49388.jpg"/>
 
 # Memories App
 
