@@ -1,16 +1,43 @@
-# Memories
+<img src="https://user-images.githubusercontent.com/62663595/236620494-345b5f06-754f-48c6-94ce-bbb58534b2bf.jpg"/>
 
-![Memories](https://i.ibb.co/7CmVbCW/image.png)
+# Memories App
 
-## Introduction
-This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
+Simple fullstack social media app that allows user to post memories from the interesting events.
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+This code repository is strictly following JavaScript Mastery course "Full Stack MERN Application" available under the following link: https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
 
-By the end of this video, you will have a strong understanding of how the MERN Stack works.
+# Libraries/Technology used in the project:
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the app
+The following libraries and technologies were used in the project:
 
-TODO: rename post message, refactor reducers, add some cool memories, maybe clickable tags, fix update functionality
-# Memories
+- React
+- Redux
+- Node.js & Express
+- MongoDB
+- Material UI
+- Google auth
+- Bcrypt
+
+# Features
+
+The website has the following features:
+
+- React on the frontend
+- Redux for state management
+- Pagination
+- Authentication
+- Styling with css and material ui
+- MongoDB database
+- Node.js and Express on the backend
+
+# Running locally
+
+To run the project, you need to run the development server by typing in your IDE in both the server and client folder:
+
+```bash
+npm start
+# or
+yarn start
+# or
+pnpm start
+```
